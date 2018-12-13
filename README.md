@@ -51,3 +51,6 @@ Everything is Ok
 ...
 
 ```
+### Video
+
+![](https://github.com/vicboma1/to7zIndividualFiles/raw/master/resources/scriptHD.gif)
