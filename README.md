@@ -1,5 +1,5 @@
 # To 7z
-  Convert all individual files in a folder to 7z files
+Convert all individual files from a folder to 7z files
 
 ### Manual
 * Download [script](https://github.com/vicboma1/to7zIndividualFiles/tree/master/script)
@@ -11,7 +11,6 @@
     * ex ) ../myPath/roms/
   * param2 -> Extension files..           
     * ex ) nes
-
 
 ### Example
 ```
@@ -51,6 +50,7 @@ Everything is Ok
 ...
 
 ```
+
 ### Video
 
-![](https://github.com/vicboma1/to7zIndividualFiles/raw/master/resources/scriptHD.gif)
+[![](https://github.com/vicboma1/to7zIndividualFiles/raw/master/resources/scriptHD.gif)](https://www.youtube.com/watch?v=EtLYndMD5eo "")
